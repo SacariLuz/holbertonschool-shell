@@ -1,1 +1,1 @@
-Cambio del directorio de trabajo.
+Mostramos el contenido del directorio actual en formato largo.
