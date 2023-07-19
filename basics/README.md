@@ -1,1 +1,1 @@
-Muestra la lista de contenidos de la ruta actual.
+Cambio del directorio de trabajo.
