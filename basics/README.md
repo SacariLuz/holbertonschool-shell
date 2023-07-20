@@ -11,4 +11,5 @@
 10. Cambiar directorio de trabajo.
 11. Escribir una secuencia de comandos enumerando todos los archivos.
 12. Escribir script que imprima tipo de archivo iamafile.
-13. Creado un enlace simbólico a /bin/ls llamado __ls__
+13. Creado un enlace simbólico 
+14. Copiar todos los archivos HTML del directorio actual al principal
