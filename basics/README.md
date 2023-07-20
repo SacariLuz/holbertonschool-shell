@@ -8,4 +8,5 @@
 7. Mover el archivo betty de /tmp
 8. Eliminar archivo betty.
 9. Elimino directorio my first directory. 
-10. cambiar directorio de trabajo.
+10. Cambiar directorio de trabajo.
+11. Escribir una secuencia de comandos enumerando todos los archivos.
