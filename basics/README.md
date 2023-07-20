@@ -5,4 +5,4 @@
 4. Muestra el contenido del directorio actual, incluido los archivos ocultos.
 5. Muestra el contenido y otros.
 6. Crear un script que cree un directorio
-7. Mover el archivo betty 
+7. Mover el archivo betty de /tmp 
